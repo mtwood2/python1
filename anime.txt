@@ -21,7 +21,6 @@ Ashita no Jo
 Hunter x Hunter	
 Neon Genesis Evangelion	
 City Hunter	
-Kokaku kidotai: Stand Alone Complex	
 Code Geass	
 Romeo and the Black Brothers	
 Black Lagoon	
@@ -58,3 +57,4 @@ Mobile Suit Gundam
 FLCL	
 Future Boy Conan	
 The Count of Monte Cristo	
+Welcome to the NHK
