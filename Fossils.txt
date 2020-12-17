@@ -1,0 +1,21 @@
+?id,Species,Maximum Age,Minimum Age,Year Found,Phylum,Class,Order,Family,Genus,Motility,Vision,Diet,Latitude,Longitude,Country,Region
+1,Cadoceras bathomphalum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
+2,Cadoceras kialagvikense,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
+3,Cadoceras (Stenocadoceras) stenoloboide,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Stenocadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
+4,Cadoceras glabrum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.37,-156.49,United States,Alaska
+5,Lilloettia stantoni,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Sphaeroceratidae,Lilloettia,fast-moving,well-developed,carnivore,57.37,-156.49,United States,Alaska
+6,Cadoceras tenuicostatum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.39,-156.45,United States,Alaska
+7,Cadoceras kialagvikense,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.39,-156.45,United States,Alaska
+8,Docidoceras (Pseudocidoceras) paucinodosum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+9,Docidoceras (Pseudocidoceras) paucinodosum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+10,Hebetoxyites hebes,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Strigoceratidae,Hebetoxyites,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+11,Docidoceras (Pseudocidoceras) paucinodosum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+12,Hebetoxyites hebes,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Strigoceratidae,Hebetoxyites,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+13,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+14,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+15,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+16,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+17,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+18,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+19,Docidoceras (Pseudocidoceras) widebayense,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+20,Docidoceras (Pseudocidoceras) widebayense,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
