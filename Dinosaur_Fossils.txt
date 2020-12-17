@@ -1,0 +1,51 @@
+﻿id,Species,Maximum Age,Minimum Age,Year Found,Phylum,Class,Order,Family,Genus,Motility,Vision,Diet,Latitude,Longitude,Country,Region
+1,Cadoceras bathomphalum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
+2,Cadoceras kialagvikense,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
+3,Cadoceras (Stenocadoceras) stenoloboide,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Stenocadoceras,fast-moving,well-developed,carnivore,57.26,-156.66,United States,Alaska
+4,Cadoceras glabrum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.37,-156.49,United States,Alaska
+5,Lilloettia stantoni,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Sphaeroceratidae,Lilloettia,fast-moving,well-developed,carnivore,57.37,-156.49,United States,Alaska
+6,Cadoceras tenuicostatum,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.39,-156.45,United States,Alaska
+7,Cadoceras kialagvikense,166.1,163.5,1953.0,Mollusca,Cephalopoda,Ammonitida,Cardioceratidae,Cadoceras,fast-moving,well-developed,carnivore,57.39,-156.45,United States,Alaska
+8,Docidoceras (Pseudocidoceras) paucinodosum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+9,Docidoceras (Pseudocidoceras) paucinodosum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+10,Hebetoxyites hebes,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Strigoceratidae,Hebetoxyites,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+11,Docidoceras (Pseudocidoceras) paucinodosum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+12,Hebetoxyites hebes,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Strigoceratidae,Hebetoxyites,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+13,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+14,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+15,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+16,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+17,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+18,Euaptetoceras amplectens,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Euaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+19,Docidoceras (Pseudocidoceras) widebayense,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+20,Docidoceras (Pseudocidoceras) widebayense,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+21,Docidoceras (Pseudocidoceras) widebayense,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+22,Docidoceras (Pseudocidoceras) camachoi,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.43,United States,Alaska
+23,Sonninia (Alaskoceras) alaskensis,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Sonninia (Alaskinia),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+24,Bradfordia (Praeoppelia) oppeliiformis,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Oppeliidae,Bradfordia (Praeoppelia),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+25,Pseudaptetoceras klimakomphalum,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hammatoceratidae,Pseudaptetoceras,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+26,Docidoceras (Pseudocidoceras) camachoi,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+27,Docidoceras (Pseudocidoceras) camachoi,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+28,Docidoceras (Pseudocidoceras) camachoi,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+29,Sonninia (Alaskoceras) alaskensis,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Sonninia (Alaskinia),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+30,Witchellia sutneroides,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Witchellia,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+31,Witchellia sutneroides,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Witchellia,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+32,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+33,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+34,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+35,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+36,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+37,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+38,Docidoceras (Pseudocidoceras) camachoi,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+39,Pseudotoites (Pseudotoites) argentinus,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Pseudotoites (Pseudotoites),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+40,Pseudolioceras costistriatum,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Hildoceratidae,Pseudolioceras,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+41,Pelekodites (Spatulites) spatians,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Witchellia,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+42,Pelekodites (Spatulites) spatians,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Witchellia,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+43,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+44,Docidoceras (Pseudocidoceras) camachoi,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+45,Sonninia (Euhoploceras) bifurcata,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Sonniniidae,Sonninia (Euhoploceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+46,Holcophylloceras costisparsum,171.6,168.4,1969.0,Mollusca,Cephalopoda,Phylloceratida,Phylloceratidae,Holcophylloceras,actively mobile,well-developed,carnivore,57.31,-156.42,United States,Alaska
+47,Bradfordia (Praeoppelia) oppeliiformis,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Oppeliidae,Bradfordia (Praeoppelia),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+48,Tugurites fastigatus,171.6,167.7,1969.0,Mollusca,Cephalopoda,Ammonitida,Hildoceratidae,Pseudolioceras (Tugurites),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+49,Pseudolioceras costistriatum,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Hildoceratidae,Pseudolioceras,fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
+50,Docidoceras (Pseudocidoceras) widebayense,171.6,168.4,1969.0,Mollusca,Cephalopoda,Ammonitida,Otoitidae,Docidoceras (Pseudocidoceras),fast-moving,well-developed,carnivore,57.31,-156.42,United States,Alaska
