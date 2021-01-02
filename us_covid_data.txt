@@ -1,0 +1,52 @@
+State,Total Confirmed Cases,Total Deaths
+Wyoming,44409,438
+Wisconsin,520438,5245
+West Virginia,85334,1338
+Washington,251064,3523
+Virginia,349584,5032
+Vermont,7412,136
+Utah,276612,1270
+Texas,1772163,28155
+Tennessee,572579,6846
+South Dakota,99164,1488
+South Carolina,307507,5296
+Rhode Island,87949,1777
+Pennsylvania,646060,16020
+Oregon,113929,1485
+Oklahoma,290936,2489
+Ohio,700380,8962
+North Dakota,92502,1299
+North Carolina,541070,6811
+New York,979040,37557
+New Mexico,142897,2479
+New Jersey,479381,19042
+New Hampshire,44028,759
+Nevada,225178,3136
+Nebraska,167128,1679
+Montana,81701,962
+Missouri,418948,5887
+Mississippi,215811,4787
+Minnesota,415361,5382
+Michigan,527199,13010
+Massachusetts,375178,12423
+Maryland,276834,5895
+Maine,24201,347
+Louisiana,315275,7488
+Kentucky,268828,2956
+Kansas,225455,2741
+Iowa,281712,3891
+Indiana,514455,8263
+Illinois,965840,17979
+Idaho,141388,1438
+Hawaii,21459,286
+Georgia,644065,10588
+Florida,1323307,21672
+District of Columbia,28983,786
+Delaware,57456,926
+Connecticut,185708,5995
+Colorado,335579,4879
+California,2307706,25963
+Arkansas,225138,3676
+Arizona,523829,8879
+Alaska,46740,198
+Alabama,361226,4827
