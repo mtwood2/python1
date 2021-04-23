@@ -1,0 +1,51 @@
+Harry Potter
+Ron Weasley
+Hermione Granger
+Albus Dumbledore
+Rubeus Hagrid
+Severus Snape
+Voldemort
+Sirius Black
+Draco Malfoy
+Fred Weasley
+Remus Lupin
+George Weasley
+Neville Longbottom
+Arthur Weasley
+Ginny Weasley
+Minerva McGonagall
+Molly Weasley
+Dolores Umbridge
+Alastor 'Mad-Eye' Moody
+Vernon Dursley
+Cornelius Fudge
+Peter Pettigrew
+Dobby
+Dudley Dursley
+Horace Slughorn
+Percy Weasley
+Luna Lovegood
+Cedric Diggory
+Petunia Dursley
+Kreacher
+Bill Weasley
+Barty Crouch Sr.
+Argus Filch
+Viktor Krum
+Gilderoy Lockhart
+Sybill Trelawney
+Fleur Delacour
+Lucius Malfoy
+Ludo Bagman
+Nymphadora Tonks
+Gregory Goyle
+Vincent Crabbe
+Bellatrix Lestrange
+Cho Chang
+Dean Thomas
+Oliver Wood
+Hedwig
+James Potter
+Rita Skeeter
+Seamus Finnigan
+Igor Karkaroff
