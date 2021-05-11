@@ -27,7 +27,7 @@ Position,Track Name,Artist
 26,en el Refuego,Grupo Diez 4tro
 27,la di die,Nessa Barrett
 28,Let Me Fly,DMX
-29,telepatA­a,Kali Uchis
+29,telepata,Kali Uchis
 30,Who We Be,DMX
 31,Damien,DMX
 32,I Miss You,DMX
