@@ -1,52 +1,52 @@
 State,Total Confirmed Cases,Total Deaths
-Wyoming,44409,438
-Wisconsin,520438,5245
-West Virginia,85334,1338
-Washington,251064,3523
-Virginia,349584,5032
-Vermont,7412,136
-Utah,276612,1270
-Texas,1772163,28155
-Tennessee,572579,6846
-South Dakota,99164,1488
-South Carolina,307507,5296
-Rhode Island,87949,1777
-Pennsylvania,646060,16020
-Oregon,113929,1485
-Oklahoma,290936,2489
-Ohio,700380,8962
-North Dakota,92502,1299
-North Carolina,541070,6811
-New York,979040,37557
-New Mexico,142897,2479
-New Jersey,479381,19042
-New Hampshire,44028,759
-Nevada,225178,3136
-Nebraska,167128,1679
-Montana,81701,962
-Missouri,418948,5887
-Mississippi,215811,4787
-Minnesota,415361,5382
-Michigan,527199,13010
-Massachusetts,375178,12423
-Maryland,276834,5895
-Maine,24201,347
-Louisiana,315275,7488
-Kentucky,268828,2956
-Kansas,225455,2741
-Iowa,281712,3891
-Indiana,514455,8263
-Illinois,965840,17979
-Idaho,141388,1438
-Hawaii,21459,286
-Georgia,644065,10588
-Florida,1323307,21672
-District of Columbia,28983,786
-Delaware,57456,926
-Connecticut,185708,5995
-Colorado,335579,4879
-California,2307706,25963
-Arkansas,225138,3676
-Arizona,523829,8879
-Alaska,46740,198
-Alabama,361226,4827
+Alabama,541928,11112
+Alaska,69329,352
+Arizona,876411,17547
+Arkansas,340040,5816
+California,3776409,62902
+Colorado,539898,6646
+Connecticut,346325,8212
+Delaware,108280,1659
+District of Columbia,48727,1125
+Florida,2308258,36462
+Georgia,1095026,20010
+Hawaii,34610,491
+Idaho,191139,2082
+Illinois,1378492,24976
+Indiana,742961,13553
+Iowa,370517,6035
+Kansas,315046,5092
+Kentucky,457756,6866
+Louisiana,467815,10522
+Maine,66863,819
+Maryland,458239,8990
+Massachusetts,704796,17818
+Michigan,985433,20125
+Minnesota,598420,7456
+Mississippi,316272,7279
+Missouri,611807,9572
+Montana,111267,1603
+Nebraska,222884,2377
+Nevada,322352,5552
+New Hampshire,98244,1344
+New Jersey,1013787,26072
+New Mexico,201868,4133
+New York,2092455,52572
+North Carolina,996511,12984
+North Dakota,109607,1537
+Ohio,1096617,19709
+Oklahoma,451830,6918
+Oregon,198356,2642
+Pennsylvania,1198106,27079
+Rhode Island,151258,2704
+South Carolina,590645,9674
+South Dakota,123911,2001
+Tennessee,845633,12280
+Texas,2941273,51366
+Utah,404316,2290
+Vermont,24084,255
+Virginia,672793,11097
+Washington,429514,5747
+West Virginia,159735,2772
+Wisconsin,672476,7748
+Wyoming,59660,713
